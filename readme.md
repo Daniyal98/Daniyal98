@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey! 👋, I'm Daniyal Ishfaq</h1>
-<h3 align="center">C++ and Golang Development Development | Distributed Systems Engineer | Diving into Web3 | Open Source Contributor </h3>
+<h3 align="center">C++ and Golang Development | Distributed Systems Engineer | Diving into Web3 | Open Source Contributor </h3>
 
 
 <!--
